@@ -1,129 +1,129 @@
-Wie kann ich den Client aktuell benutzen?
+# Wie kann ich den Client aktuell benutzen?
 Der Client befindet sich in der Open Beta. 
-Man kann ihn also bereits auf norisk.gg herunterladen und starten aber damit man mit dem Client spielen kann, muss man auf der Whitelist stehen.
+Man kann ihn somit bereits auf norisk.gg herunterladen und starten aber damit man mit dem Client spielen kann, muss man auf der Whitelist stehen.
 
-Wie kommt man auf die Whitelist?
+# Wie kommt man auf die Whitelist?
 Nein, man kann sich nicht bewerben
 Nein, man kann sich nicht auf die Whitelist kaufen
 Nein, man kann sich nicht durch ein Ticket für die Whitelist bewerben
 
-Um auf die Whitelist zu kommen musst du den Channel <#1258102216854732820> nutzen.
-In diesem Channel musst du über den Button, welcher sich nur aktiviert wenn neue Beta User gebraucht werden, der Beta beitreten.
-Dies wird über EINEN oder MEHRERE der folgenden Wege kommuniziert:
+Zurzeit ist es nur möglich auf die Whitelist zu kommen indem du den Channel <#1258102216854732820> nutzt. In diesem Channel musst du über den Button, welcher sich nur aktiviert wenn neue Beta User gebraucht werden, der Beta beitreten.
+Ob neue Beta Tester benötigt werden, wird über EINEN oder MEHRERE der folgenden Wege kommuniziert:
 
 Im Video von Norisk auf https://www.youtube.com/@noriskk
 Im Whatsapp Channel von Norisk https://www.whatsapp.com/channel/0029VaEHVubEgGfRBa5pzW29
 Hier auf dem Discord in <#774271756549619725>
 
-Dann kannst du auf den Button drücken, deinen Minecraft Namen eingeben und den benötigten Beta Code. Es kann sein das ein bestimmter Code gebraucht wird um sich in die Whitelist zu schreiben, dieser wird kommuniziert und der Code MUSS in das dafür vorgesehene Feld eingetragen werden, sonst funktioniert es nicht.
+Sobald dies der fall ist, kannst du auf den Button drücken. Du wirst dann nach deinem Minecraft Namen und einem Beta Code gefragt. Trage beides ein und schon bist du in der Beta.
 
-Wie kann ich die Version ändern?
-Zurzeit kannst du nur mit der neuste Version spielen, es ist nicht möglich die 1.8 oder andere Versionen auszuwählen.
+# Wie kann ich die Version ändern?
+Zurzeit kannst du nur mit der Version 1.21 spielen. Es ist nicht möglich die 1.8 oder andere Versionen auszuwählen. Es ist auch nicht geplant die 1.8 in Zukunft zu unterstützen. Es wird immer schnellstmöglich auf die neuste Minecraft Version geupdated.
 
-Wo finde ich das NRC Emote base Model?
-"Geckolib Animation Utils" Plugin in Blockbench installieren.
-Neues "Geckolib Animated Model" erstellen und beim Erstellen als "Model Type" -> "Armor" auswählen.
-
-Alternativ:
-Im <#774292827524956181> Channel könnt ihr euch das Model herunterladen.
-(Das Plugin braucht ihr trotzdem!)
+# Wo finde ich das NRC Emote base Model?
+Installiere die dafür das "Geckolib Animation Utils" Plugin in Blockbench.
+Erstelle dann ein neues "Geckolib Animated Model" und beim Erstellen wählst du als "Model Type" -> "Armor" aus. Alternative findest du im <#774292827524956181> Channel auch das Model.
+(Das Plugin wird trotzdem benötigt!)
 
 Achtung:
 Die Pivot Points (Ankerpunkte) dürfen nicht verschoben werden. Lasst einfach das Pivot Tool in Ruhe.
 
-Beim Installieren bekomme folgende Meldung: Der Computer wurde durch Windows geschützt
-Das liegt daran, dass wir noch kein Zertifikat haben, weil das teuer ist.
-Um diesen Schutz zu umgehen, klicke auf "Weitere Informationen" und "Trotzdem ausführen".
-Wenn du den Client von https://norisk.gg/ heruntergeladen hast, ist er sicher.
+# Beim Installieren bekomme ich diese Meldung: Der Computer wurde durch Windows geschützt
+Das liegt daran, dass wir noch kein offizielles Microsoft Zertifikat haben.
+Um trotzdem mit dem Client spielen zu können, klicke auf "Weitere Informationen" und "Trotzdem ausführen".
+Wenn du den Client von norisk.gg heruntergeladen hast, ist er sicher.
 
 MacOS
-Wenn ihr auf macOS diese Fehlermeldung beim Öffnen bekommt, müsst ihr auf "Abbrechen", anschließend in eure Einstellungen auf  "Datenschutz & Sicherheit" und dann relativ weit unten unter dem Punkt "Sicherheit" auf "Trotzdem öffnen". Dann euer Passwort bzw. Fingerabdruck bestätigen und den Launcher neu öffnen.
+Wenn ihr auf macOS diese Fehlermeldung beim Öffnen bekommt, müsst ihr erst auf "Abbrechen" klicken und anschließend in eure Einstellungen auf  "Datenschutz & Sicherheit" gehen. Scrollt dort runter zum Punkt "Sicherheit" und klickt auf "Trotzdem öffnen". Dann gebt ihr euer Passwort bzw. Fingerabdruck ein und könnt den Launcher jetzt öffnen.
 
-Ich habe einen Bug in Subway Surfers / dem HGLabor Server!
+# Ich habe einen Bug in Subway Surfers / dem HGLabor Server!
 Fragen oder Bugs zu Subway Surfers oder dem HGLabor Server müssen im [HGLabor Discord](https://discord.hglabor.de) gemeldet werden und nicht hier im NoRisk Client Discord.
 
-Wie lange dauert mein Cape angenommen wird und woher weiß ich ob es angenommen wurde oder nicht?
+# Wie lange dauert mein Cape angenommen wird und woher weiß ich ob es angenommen wurde oder nicht?
 Wenn es angenommen wurde findest du es in deinem cape menu im Launcher, die Zeit bis es angenommen wird kann sich unterscheiden sollte aber maximal einige Stunden dauern.
 
-Mein Cape wurde nicht angenommen, was kann der Grund dafür sein?
-Es hat potenziell gegen die Cape-Regeln verstoßen, diese sind:
-Keine urheberrechtlich geschützten Inhalte (z.B. Umhänge von anderen Kunden, Inhalte im Zusammenhang mit Nintendo usw.) -> das Umfärben eines urheberrechtlich geschützten Bildes entfernt das Copyright nicht 
+# Mein Cape wurde nicht angenommen, was kann der Grund dafür sein?
+Dafür gibt es zwei Hauptgründe. Möglichkeit eins ist das es gegen die Cape Richtlinien Verstoßen hat, diese sind:
+Keine urheberrechtlich geschützten Inhalte (z.B. Umhänge von Youtubern oder Inhalte im Zusammenhang mit Nintendo usw.) -> Das Umfärben eines urheberrechtlich geschützten Bildes entfernt das Copyright im übrigen nicht 
 Keine expliziten Inhalte -> Nacktheit etc.
 Keine diskriminierenden, rassistischen usw. Inhalte
-Keine politischen Inhalte (Igbtq-Flaggen sind nicht politisch, bitte werdet erwachsen)
-oder, was häufig auch der Fall ist, dass die Elytra vergessen wurde. Diese ist ein Teil deines Capes und muss immer auch gefüllt sein.
+Keine politischen Inhalte
+Oder Möglichkeit zwei ist, dass die Elytra vergessen wurde. Diese ist ein Teil deines Capes und muss immer auch gefüllt sein.
 
-Launcher startet nicht?
-Start im privileged mode (run as admin)
-Taskkill im Task Manager oder Commandline
-3rd-Party Services deaktivieren (Antivirus, Firewall)
-Advanced (Windows only): CMD -> als Admin ausführen -> netsh winsock reset (bei bootloop of death)
+# Launcher startet nicht?
+Vier mögliche fixes die du sofort versuchen kannst:
+- Start im privileged mode (run as admin)
+- Taskkill im Task Manager oder Commandline
+- 3rd-Party Services deaktivieren (Antivirus, Firewall)
+- Advanced (Windows only): CMD -> als Admin ausführen -> netsh winsock reset (bei bootloop of death)
+Falls nichts davon geholfen hat gib uns bitte nochmal kurz bescheid und ein Helper wird dir weiterhelfen.
 
-Launcher nur weiß/schwarz (leer)?
-Neuinstallieren
-Keine Dateien verändern
-Launcher-Ordner löschen
-Windows: %appdata%\\norisk\\NoRiskClient\\config
-Linux: Ctrl + H (versteckte Dateien anzeigen) -> /home/[Benutzer]/.config/noriskclient/options.json
-Mac: Cmd + Shift + . (versteckte Dateien anzeigen) -> Benutzer\\[Benutzer]\\Library\\ApplicationSupport\\gg.norisk.NoRiskClient\\options.json
+# Launcher nur weiß/schwarz (leer)?
+Drei mögliche fixes die du sofort versuchen kannst:
+- Neuinstallieren von norisk.gg
+- Verändere bitte keine Dateien direkt im Launcher Ordner
+- Launcher-Ordner löschen
+  - Windows: `%appdata%\norisk\NoRiskClient\config`
+  - Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.config/noriskclient/options.json`
+  - Mac: Cmd + Shift + . (versteckte Dateien anzeigen) -> `Benutzer\[Benutzer]\Library\ApplicationSupport\gg.norisk.NoRiskClient\options.json`
+Falls nichts davon geholfen hat gib uns bitte nochmal kurz bescheid und ein Helper wird dir weiterhelfen.
 
-Wie nutze ich den Client bei Linux?
-"Unacceptable TLS Certificate" bei Login: $ sudo ln -s /etc/ssl/ca-bundle.pem /etc/ssl/certs/ca-certificates.crt
-Launcher UI cursed: $ export WEBKIT_DISABLE_COMPOSITING_MODE=1
-AppImage is AMD only, AARCH/ARM Anleitung in Readme)
-Troubleshooting AppImage/.deb:
+# Wie nutze ich den Client bei Linux?
+Wenn du eine Fehlermeldung wie "Unacceptable TLS Certificate" bei Login bekommst versuche es mit: `$ sudo ln -s /etc/ssl/ca-bundle.pem /etc/ssl/certs/ca-certificates.crt`
+Ist dein Launcher UI cursed: `$ export WEBKIT_DISABLE_COMPOSITING_MODE=1`
+Beachte bitte: Das AppImage ist AMD only, AARCH/ARM Anleitung in Readme)
+Und für das Troubleshooting AppImage/.deb versuche es zuerst hiermit:
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt install libfuse2 (libfuse2t64 for Ubuntu)
 
-Dependencies:
+Folgende Dependencies werden bei diesen Distributionen benötigt:
 Ubuntu: libxapp-gtk3 xapps-common libxapp
 Debian: libgtk-3-dev libssl-dev libsoup2.4-dev libwebkit2gtk-4.0-dev
 Arch: cairo gdk-pixbuf2 glib2 gtk3 libsoup openssl pango webkit2gtk
 
-other Packages: (including unofficial)
+Andere packages die es ansonsten noch gibt welche du probieren kannst: (including unofficial)
 Flatpack (by onlyJakob)
 AUR (official Version)
 RPM (Soon…)
 NIX (Soon…)
 
-"Mein Launcher ist Stuck im 'Updating' Screen" (Loop of Death)
-Neuinstallieren
-Launcher Einstellungen löschen (%appdata%\\norisk\\NoRiskClient\\config)
-Andere Methode zum Installieren (wenn ihr .exe habt, probiert über *.nsis.zip, alle Versionen findet ihr auf [Github](https://github.com/NoRiskClient/noriskclient-launcher/releases))
+# "Mein Launcher ist Stuck im 'Updating' Screen" (Loop of Death)
+Versuche zuerst einmal den Client von norisk.gg neu zu installieren
+Du kannst auch deine Launcher Einstellungen einmal löschen (`%appdata%\norisk\NoRiskClient\config`)
+Abschließend kannst du auch einmal eine andere Methode zum Installieren probieren (wenn ihr .exe habt, probiert über *.nsis.zip, alle Versionen findet ihr auf [Github](https://github.com/NoRiskClient/noriskclient-launcher/releases))
 
-Launcher Stuck im Auto-Updater / Installer
-Neue Version installieren (https://norisk.gg/)
+# Launcher Stuck im Auto-Updater / Installer
+Lade dir bitte einmal die neuste Version von norisk.gg herunter.
 
-Ich habe den Invite Button nicht!
+# Ich habe den Invite Button nicht!
 Der Button ist nur für neue User gedacht. Das bedeutet:
-Du kannst den Invite Button nur erhalten, wenn du der Beta mit einem der folgenden Codes beigetreten bist. Andernfalls ist das Fehlen des Buttons gewollt!
+Du siehst den den Invite Button nur, wenn du der Beta mit einem der folgenden Codes beigetreten bist. Andernfalls ist das Fehlen des Buttons gewollt!
 freunde, friends, geilo, blackweek1, blackweek2, blackweek3, blackmonday, advent, meinpcgehtwieder
-"Ich wurde aber invitet!" – Auch in diesem Fall ist es beabsichtigt, dass du den Button nicht hast!
+Auch wenn du von einem Freund eingeladen wurdest ist es beabsichtigt, dass du den Button nicht hast!
 
-Falls du mit einem der oben genannten Codes in die Beta gekommen bist, aber dennoch den Button nicht hast, öffne gerne ein Ticket :)
+Falls du mit einem der oben genannten Codes in die Beta gekommen bist, aber den Button nicht hast, öffne gerne ein Ticket :)
 
-"Incompatible mods found!" (Mod discovery failed, zip END header not found)
-Mod Cache löschen
-Windows: %appdata%\\norisk\\NoRiskClient\\data\\mod_cache
-macOS:  Cmd + Shift + . (versteckte Dateien anzeigen) -> Benutzer\\[Benutzer]\\Library\\ApplicationSupport\\gg.norisk.NoRiskClient\\mod_cache
-Linux: Ctrl + H (versteckte Dateien anzeigen) -> /home/[Benutzer]/.local/noriskclient/mod_cache
+# "Incompatible mods found!" (Mod discovery failed, zip END header not found)
+Diesen Fehler kannst du eventuell beheben indem du deinen Mod Cache löschst, diesen findest du hier:
+Windows: `%appdata%\norisk\NoRiskClient\data\mod_cache`
+macOS:  Cmd + Shift + . (versteckte Dateien anzeigen) -> `Benutzer\[Benutzer]\Library\ApplicationSupport\gg.norisk.NoRiskClient\mod_cache`
+Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.local/noriskclient/mod_cache`
 
-"API Offline"-Screen
-Reinstall (https://norisk.gg/)
+# "API Offline"-Screen
+Lade dir bitte einmal die neuste Version von norisk.gg herunter.
 
-Ich habe einen Ping Pong Bug
+# Ich habe einen Ping Pong Bug
 Ping Pong Bugs werden leider nicht mehr gefixt, das Minigame ist abgeschlossen und wird so wie es ist im Client Verbleiben.
 
-Wann wird der Client released?
-Es ist nicht bekannt, wann der Client released wird.
+# Wann wird der Client released?
+Es ist noch nicht bekannt, wann der Client genau released wird.
 
-Wie kann ich mich bewerben?
+# Wie kann ich mich bewerben?
 Allgemein gibt es **keine** Bewerbungen für *Beta*, *Norisk-Partner*, *Helper* oder *Designer*.
-Helper einfach im Discord aktiv sein und Designer einfach Ideen / Screenshots von Models in <#1209286223680770079> bzw <#1278104571255980032> .
+Um Helper zu werden sei einfach im Discord aktiv und um Designer zu werden schick uns deine Ideen / Screenshots von Models in <#1209286223680770079> bzw <#1278104571255980032> .
 
-Wo finde ich die Dateien vom Spiel wie Screenshots, Welten, Resource / Texturepacks etc?
-Bei Windows unter: `%appdata%\\norisk\\NoRiskClient\\data\\gameDir\\1.21\\screenshots`, drücke einfach die Windowstaste + R und füge dort dieser Pfad ein.
+# Wo finde ich meine Screenshots, Welten, Resource / Texturepacks etc?
+Unter: `%appdata%\norisk\NoRiskClient\data\gameDir\1.21\screenshots`, drücke einfach die Windowstaste + R und füge dort dieser Pfad ein.
 
-Bei mir haben alle einen NoRisk skin?
+# Bei mir haben alle einen NoRisk skin?
 Das ist normal, wenn du den NoRisk Client nutzt, hat jeder Spieler der keinen eigenen Skin hat, den Skin von NoRisk. Es wurde also nur der Steve Skin ausgetauscht.
