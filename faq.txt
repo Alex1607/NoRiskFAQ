@@ -127,3 +127,14 @@ Unter: `%appdata%\norisk\NoRiskClient\data\gameDir\1.21\screenshots`, drücke ei
 
 # Bei mir haben alle einen NoRisk skin?
 Das ist normal, wenn du den NoRisk Client nutzt, hat jeder Spieler der keinen eigenen Skin hat, den Skin von NoRisk. Es wurde also nur der Steve Skin ausgetauscht.
+
+# Wie kann ich Mods installieren?
+Öffne zuerst im Launcher die "mods" Seite unter dem Reiter "addons".
+Dort kannst du im "discover" tab nach Mods suchen und diese direkt installieren.
+Wenn du eine Mod im Store nicht finden kannst, siehe nach, ob sie geblacklisted ist: https://discord.com/channels/774271756549619722/1276193700019437578/1307857820930015233
+Falls du eine custom Mod nutzen willst, kannst du diese entweder im "custom" tab öffnen oder direkt in den "installed" tab per drag-and-drop ziehen.
+Beachte bei einer custom Mod, dass sie mit der Minecraft Version kompatibel ist und Fabric verwendet.
+
+
+
+////notiz an dich kavatch, idk wie man den discord channel richtig linked das müsstest du schauen
