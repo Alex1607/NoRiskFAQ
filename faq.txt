@@ -51,11 +51,12 @@ Oder Möglichkeit zwei ist, dass die Elytra vergessen wurde. Diese ist ein Teil 
 
 # Launcher startet nicht?
 Vier mögliche fixes die du sofort versuchen kannst:
-- Versuche es einfach 3 bis 5 mal, manchmal hängt es ein bisschen
+- Versuche es einfach 3 bis 5 mal zu starten, manchmal hängt es ein bisschen
 - Start im privileged mode (run as admin)
 - Taskkill im Task Manager oder Commandline
 - 3rd-Party Services deaktivieren (Antivirus, Firewall)
 - Advanced (Windows only): CMD -> als Admin ausführen -> netsh winsock reset (bei bootloop of death)
+- Ansonsten kannst du auch versuchen den Client neu zu installieren, lade ihn dafür von norisk.gg neu runter
 Falls nichts davon geholfen hat gib uns bitte nochmal kurz bescheid und ein Helper wird dir weiterhelfen.
 
 # Launcher nur weiß/schwarz (leer)?
