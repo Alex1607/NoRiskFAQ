@@ -51,6 +51,7 @@ Oder Möglichkeit zwei ist, dass die Elytra vergessen wurde. Diese ist ein Teil 
 
 # Launcher startet nicht?
 Vier mögliche fixes die du sofort versuchen kannst:
+- Versuche es einfach 3 bis 5 mal, manchmal hängt es ein bisschen
 - Start im privileged mode (run as admin)
 - Taskkill im Task Manager oder Commandline
 - 3rd-Party Services deaktivieren (Antivirus, Firewall)
