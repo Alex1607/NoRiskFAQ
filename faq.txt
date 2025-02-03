@@ -17,7 +17,7 @@ Hier auf dem Discord in <#774271756549619725>
 Sobald dies der fall ist, kannst du auf den Button drücken. Du wirst dann nach deinem Minecraft Namen und einem Beta Code gefragt. Trage beides ein und schon bist du in der Beta.
 
 # Wie kann ich die Version ändern?
-Zurzeit kannst du nur mit der Version 1.21 spielen. Es ist nicht möglich die 1.8 oder andere Versionen auszuwählen. Es ist auch nicht geplant die 1.8 in Zukunft zu unterstützen. Es wird immer schnellstmöglich auf die neuste Minecraft Version geupdated.
+Zurzeit kannst du nur mit der Version 1.21 und der 1.21.4 (als Test Version) spielen. Es ist nicht möglich die 1.8 oder andere Versionen auszuwählen. Es ist auch nicht geplant die 1.8 in Zukunft zu unterstützen. Es wird immer schnellstmöglich auf die neuste Minecraft Version geupdated.
 
 # Wo finde ich das NRC Emote base Model?
 Installiere die dafür das "Geckolib Animation Utils" Plugin in Blockbench.
