@@ -49,14 +49,13 @@ Keine diskriminierenden, rassistischen usw. Inhalte
 Keine politischen Inhalte
 Oder Möglichkeit zwei ist, dass die Elytra vergessen wurde. Diese ist ein Teil deines Capes und muss immer auch gefüllt sein.
 
-# Launcher startet nicht?
-Vier mögliche fixes die du sofort versuchen kannst:
-- Versuche es einfach 3 bis 5 mal zu starten, manchmal hängt es ein bisschen
+# Launcher startet nicht bzw Crash beim starten?
+**Versuche es bitte zuallererst, indem du den Client neu installierst. Lade ihn dafür nochmal von https://norisk.gg runter.**
+Falls das nicht geholfen hast kannst du diese mögliche fixes versuchen kannst:
 - Start im privileged mode (run as admin)
 - Taskkill im Task Manager oder Commandline
 - 3rd-Party Services deaktivieren (Antivirus, Firewall)
 - Advanced (Windows only): CMD -> als Admin ausführen -> netsh winsock reset (bei bootloop of death)
-- Ansonsten kannst du auch versuchen den Client neu zu installieren, lade ihn dafür von norisk.gg neu runter
 Falls nichts davon geholfen hat gib uns bitte nochmal kurz bescheid und ein Helper wird dir weiterhelfen.
 
 # Launcher nur weiß/schwarz (leer)?
