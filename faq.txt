@@ -35,8 +35,8 @@ Wenn du den Client von norisk.gg heruntergeladen hast, ist er sicher.
 MacOS
 Wenn ihr auf macOS diese Fehlermeldung beim Öffnen bekommt, müsst ihr erst auf "Abbrechen" klicken und anschließend in eure Einstellungen auf  "Datenschutz & Sicherheit" gehen. Scrollt dort runter zum Punkt "Sicherheit" und klickt auf "Trotzdem öffnen". Dann gebt ihr euer Passwort bzw. Fingerabdruck ein und könnt den Launcher jetzt öffnen.
 
-# Ich habe einen Bug in Subway Surfers / dem HGLabor Server!
-Fragen oder Bugs zu Subway Surfers oder dem HGLabor Server müssen im [HGLabor Discord](https://discord.hglabor.de) gemeldet werden und nicht hier im NoRisk Client Discord.
+# Ich habe einen Bug in Subway Surfers, Heros FFA oder dem HGLabor Server!
+Fragen oder Bugs zu Subway Surfers oder dem HGLabor Server müssen im [HGLabor Discord](https://discord.com/invite/tTWkXj8d) gemeldet werden und nicht hier im NoRisk Client Discord.
 
 # Wie lange dauert mein Cape angenommen wird und woher weiß ich ob es angenommen wurde oder nicht?
 Wenn es angenommen wurde findest du es in deinem cape menu im Launcher, die Zeit bis es angenommen wird kann sich unterscheiden sollte aber maximal einige Stunden dauern.
