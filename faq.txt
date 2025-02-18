@@ -16,6 +16,8 @@ Hier auf dem Discord in <#774271756549619725>
 
 Sobald dies der fall ist, kannst du auf den Button drücken. Du wirst dann nach deinem Minecraft Namen und einem Beta Code gefragt. Trage beides ein und schon bist du in der Beta.
 
+Außerdem wird die Beta manchmal für einen gewissen Zeitraum mit unbegrenzten Slots geöffnet. Dies wird auch über mindestens einen der oben genannten Wege kommuniziert.
+
 # Wie kann ich die Version ändern?
 Zurzeit kannst du nur mit der Version 1.21 und der 1.21.4 (als Test Version) spielen. Es ist nicht möglich die 1.8 oder andere Versionen auszuwählen. Es ist auch nicht geplant die 1.8 in Zukunft zu unterstützen. Es wird immer schnellstmöglich auf die neuste Minecraft Version geupdated.
 
@@ -39,7 +41,7 @@ Wenn ihr auf macOS diese Fehlermeldung beim Öffnen bekommt, müsst ihr erst auf
 Fragen oder Bugs zu Subway Surfers oder dem HGLabor Server müssen im [HGLabor Discord](https://discord.gg/aqkp5jNBKJ) gemeldet werden und nicht hier im NoRisk Client Discord.
 
 # Wie lange dauert mein Cape angenommen wird und woher weiß ich ob es angenommen wurde oder nicht?
-Wenn es angenommen wurde findest du es in deinem cape menu im Launcher, die Zeit bis es angenommen wird kann sich unterscheiden sollte aber maximal einige Stunden dauern.
+Wenn es angenommen wurde findest du es in deinem Cape-Menu im Launcher, die Zeit bis es angenommen wird kann sich unterscheiden sollte aber maximal einige Stunden dauern.
 
 # Mein Cape wurde nicht angenommen, was kann der Grund dafür sein?
 Dafür gibt es zwei Hauptgründe. Möglichkeit eins ist das es gegen die Cape Richtlinien Verstoßen hat, diese sind:
@@ -64,7 +66,7 @@ Drei mögliche fixes die du sofort versuchen kannst:
 - Verändere bitte keine Dateien direkt im Launcher Ordner
 - Launcher-Ordner löschen
   - Windows: `%appdata%\norisk\NoRiskClient\config`
-  - Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.config/noriskclient/options.json`
+  - Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.config/.share/noriskclient/options.json`
   - Mac: Cmd + Shift + . (versteckte Dateien anzeigen) -> `Benutzer\[Benutzer]\Library\ApplicationSupport\gg.norisk.NoRiskClient\options.json`
 Falls nichts davon geholfen hat gib uns bitte nochmal kurz bescheid und ein Helper wird dir weiterhelfen.
 
@@ -108,7 +110,7 @@ Falls du mit einem der oben genannten Codes in die Beta gekommen bist, aber den 
 Diesen Fehler kannst du eventuell beheben indem du deinen Mod Cache löschst, diesen findest du hier:
 Windows: `%appdata%\norisk\NoRiskClient\data\mod_cache`
 macOS:  Cmd + Shift + . (versteckte Dateien anzeigen) -> `Benutzer\[Benutzer]\Library\ApplicationSupport\gg.norisk.NoRiskClient\mod_cache`
-Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.local/noriskclient/mod_cache`
+Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.local/.share/noriskclient/mod_cache`
 
 # "API Offline"-Screen
 Lade dir bitte einmal die neuste Version von norisk.gg herunter.
