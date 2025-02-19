@@ -66,7 +66,7 @@ Drei mögliche fixes die du sofort versuchen kannst:
 - Verändere bitte keine Dateien direkt im Launcher Ordner
 - Launcher-Ordner löschen
   - Windows: `%appdata%\norisk\NoRiskClient\config`
-  - Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.config/.share/noriskclient/options.json`
+  - Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.config/noriskclient/options.json`
   - Mac: Cmd + Shift + . (versteckte Dateien anzeigen) -> `Benutzer\[Benutzer]\Library\ApplicationSupport\gg.norisk.NoRiskClient\options.json`
 Falls nichts davon geholfen hat gib uns bitte nochmal kurz bescheid und ein Helper wird dir weiterhelfen.
 
@@ -110,7 +110,7 @@ Falls du mit einem der oben genannten Codes in die Beta gekommen bist, aber den 
 Diesen Fehler kannst du eventuell beheben indem du deinen Mod Cache löschst, diesen findest du hier:
 Windows: `%appdata%\norisk\NoRiskClient\data\mod_cache`
 macOS:  Cmd + Shift + . (versteckte Dateien anzeigen) -> `Benutzer\[Benutzer]\Library\ApplicationSupport\gg.norisk.NoRiskClient\mod_cache`
-Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.local/.share/noriskclient/mod_cache`
+Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.local/share/noriskclient/mod_cache`
 
 # "API Offline"-Screen
 Lade dir bitte einmal die neuste Version von norisk.gg herunter.
