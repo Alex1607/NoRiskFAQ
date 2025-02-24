@@ -85,8 +85,8 @@ Debian: libgtk-3-dev libssl-dev libsoup2.4-dev libwebkit2gtk-4.0-dev
 Arch: cairo gdk-pixbuf2 glib2 gtk3 libsoup openssl pango webkit2gtk
 
 Andere packages die es ansonsten noch gibt welche du probieren kannst: (including unofficial)
-Flatpack (by onlyJakob)
-AUR (official Version)
+Flatpack (by onlyJakob, URL: https://github.com/onlyJakob/flathub/releases/tag/latest)
+AUR (official Version, URL: https://aur.archlinux.org/packages/noriskclient-launcher-git)
 RPM (Soon…)
 NIX (Soon…)
 
