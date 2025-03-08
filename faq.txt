@@ -138,6 +138,9 @@ Wenn du eine Mod im Store nicht finden kannst, siehe nach, ob sie geblacklisted 
 Falls du eine custom Mod nutzen willst, kannst du diese entweder im "custom" tab öffnen oder direkt in den "installed" tab per drag-and-drop ziehen.
 Beachte bei einer custom Mod, dass sie mit der Minecraft Version kompatibel ist und Fabric verwendet.
 
-Warum geht der "/heroes" Befehl nicht?
+# Warum geht der "/heroes" Befehl nicht?
 Gehe sicher das du das Datapack ausgewählt hast? (Welt zeigt dann als gelben Tag "Experimental" an)
 Bedanke auch das du "Allow Cheats" aktivieren musst
+
+# Kann die Auflösung für kostenlose Capes erhöht werden?
+Nein, die maximale Auflösung für kostenlose Capes wird nicht erhöht da diese sonst zu viel Speicher verbrauchen.
