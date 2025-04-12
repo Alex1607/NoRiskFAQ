@@ -144,3 +144,9 @@ Bedanke auch das du "Allow Cheats" aktivieren musst
 
 # Kann die Auflösung für kostenlose Capes erhöht werden?
 Nein, die maximale Auflösung für kostenlose Capes wird nicht erhöht da diese sonst zu viel Speicher verbrauchen.
+
+# Network Protocol Error, Warum seh ich keine Pings?
+- Deaktiviere installierte Antivirus/Firewall Programme.
+- Überprüfe ob du DNS Einstellungen verstellt hast.
+- Stelle fest, ob die Uhrzeit auf deinem Gerät aktuell ist:
+Windows: Einstellungen > Datum&Uhrzeit > „Automatisch einstellen“ 1-mal aus/ein, Synchronisieren
