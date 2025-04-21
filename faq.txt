@@ -37,6 +37,9 @@ Wenn du den Client von norisk.gg heruntergeladen hast, ist er sicher.
 MacOS
 Wenn ihr auf macOS diese Fehlermeldung beim Öffnen bekommt, müsst ihr erst auf "Abbrechen" klicken und anschließend in eure Einstellungen auf  "Datenschutz & Sicherheit" gehen. Scrollt dort runter zum Punkt "Sicherheit" und klickt auf "Trotzdem öffnen". Dann gebt ihr euer Passwort bzw. Fingerabdruck ein und könnt den Launcher jetzt öffnen.
 
+# Installation geht nicht, "cannot be accessed", "Unable to install"
+Vollständig deinstallieren über `%localappdata%\NoRiskClient\uninstall.exe`
+
 # Ich habe einen Bug in Subway Surfers, Heros FFA oder dem HGLabor Server!
 Fragen oder Bugs zu Subway Surfers oder dem HGLabor Server müssen im [HGLabor Discord](https://discord.gg/aqkp5jNBKJ) gemeldet werden und nicht hier im NoRisk Client Discord.
 
