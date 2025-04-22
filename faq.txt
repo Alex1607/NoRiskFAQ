@@ -153,3 +153,9 @@ Nein, die maximale Auflösung für kostenlose Capes wird nicht erhöht da diese 
 - Überprüfe ob du DNS Einstellungen verstellt hast.
 - Stelle fest, ob die Uhrzeit auf deinem Gerät aktuell ist:
 Windows: Einstellungen > Datum&Uhrzeit > „Automatisch einstellen“ 1-mal aus/ein, Synchronisieren
+
+# Mein Download bleibt bei x% stehen
+- Zu langsame Download-Geschwindigkeit (Netzwerk)?
+- Verbindung über WLAN?
+- "CLEAR CACHE" in den Launcher Settings
+- "MAX DOWNLOADS" in den Launcher Settings auf 50 stellen
