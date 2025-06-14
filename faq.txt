@@ -1,22 +1,5 @@
 # Wie kann ich den Client aktuell benutzen?
-Der Client befindet sich in der Open Beta. 
-Man kann ihn somit bereits auf norisk.gg herunterladen und starten aber damit man mit dem Client spielen kann, muss man auf der Whitelist stehen.
-
-# Wie kommt man auf die Whitelist?
-Nein, man kann sich nicht bewerben
-Nein, man kann sich nicht auf die Whitelist kaufen
-Nein, man kann sich nicht durch ein Ticket für die Whitelist bewerben
-
-Zurzeit ist es nur möglich auf die Whitelist zu kommen indem du den Channel <#1258102216854732820> nutzt. In diesem Channel musst du über den Button, welcher sich nur aktiviert wenn neue Beta User gebraucht werden, der Beta beitreten.
-Ob neue Beta Tester benötigt werden, wird über EINEN oder MEHRERE der folgenden Wege kommuniziert:
-
-Im Video von Norisk auf https://www.youtube.com/@noriskk
-Im Whatsapp Channel von Norisk https://www.whatsapp.com/channel/0029VaEHVubEgGfRBa5pzW29
-Hier auf dem Discord in <#774271756549619725>
-
-Sobald dies der fall ist, kannst du auf den Button drücken. Du wirst dann nach deinem Minecraft Namen und einem Beta Code gefragt. Trage beides ein und schon bist du in der Beta.
-
-Außerdem wird die Beta manchmal für einen gewissen Zeitraum mit unbegrenzten Slots geöffnet. Dies wird auch über mindestens einen der oben genannten Wege kommuniziert.
+Du kannst den Client auf norisk.gg downloaden und starten
 
 # Wie kann ich die Version ändern?
 Zurzeit kannst du nur mit der Version 1.21 und der 1.21.4 (als Test Version) spielen. Es ist nicht möglich die 1.8 oder andere Versionen auszuwählen. Es ist auch nicht geplant die 1.8 in Zukunft zu unterstützen. Es wird immer schnellstmöglich auf die neuste Minecraft Version geupdated.
@@ -127,6 +110,10 @@ Es ist noch nicht bekannt, wann der Client genau released wird.
 # Wie kann ich mich bewerben?
 Allgemein gibt es **keine** Bewerbungen für *Beta*, *Norisk-Partner*, *Helper* oder *Designer*.
 Um Helper zu werden sei einfach im Discord aktiv und um Designer zu werden schick uns deine Ideen / Screenshots von Models in <#1209286223680770079> bzw <#1278104571255980032> .
+
+# Wie kann ich mich für einen Creator Code oder als Content Creator bewerben?
+Stell bitte sicher dass du die Anforderungen (https://blog.norisk.gg/nrc-partnerprogramm/) erfüllst.
+Zusätzlich findest du auf der Seite den Bewerbungsablauf, schreib bitte kurz was über dich, deine Plattform und wie du dir deinen Creatorcode vorstellst!
 
 # Wo finde ich meine Screenshots, Welten, Resource / Texturepacks etc?
 Unter: `%appdata%\norisk\NoRiskClient\data\gameDir\1.21\screenshots`, drücke einfach die Windowstaste + R und füge dort dieser Pfad ein.
