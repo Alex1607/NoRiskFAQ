@@ -2,13 +2,19 @@
 Du kannst den Client auf norisk.gg downloaden und starten
 
 # Wie kann ich die Version ändern?
-Zurzeit kannst du nur mit der Version 1.21 und der 1.21.4 (als Test Version) spielen. Es ist nicht möglich die 1.8 oder andere Versionen auszuwählen. Es ist auch nicht geplant die 1.8 in Zukunft zu unterstützen. Es wird immer schnellstmöglich auf die neuste Minecraft Version geupdated.
+Zurzeit kannst du nur mit der Version 1.21.4 und der 1.21.5 (als Test Version) spielen.
+Es ist zwar möglich die 1.8 oder andere Versionen auszuwählen, aber ohne die Mods die den NoRiskClient ausmachen.
+Es ist nicht geplant den NoRiskClient auf die 1.8 zu bringen.
+Es wird immer schnellstmöglich auf die neuste Minecraft Version geupdated.
+
+# Wie kann ich den NRC / NoRiskClient auf der 1.8 nutzen?
+Das geht leider nicht, aktuell werden nur die 1.21.4 und 1.12.5 unterstützt.
+Es ist nicht geplant den NoRiskClient auf die 1.8 zu bringen.
 
 # Wo finde ich das NRC Emote base Model?
 Installiere die dafür das "Geckolib Animation Utils" Plugin in Blockbench.
 Erstelle dann ein neues "Geckolib Animated Model" und beim Erstellen wählst du als "Model Type" -> "Armor" aus. Alternative findest du im <#774292827524956181> Channel auch das Model.
 (Das Plugin wird trotzdem benötigt!)
-
 Achtung:
 Die Pivot Points (Ankerpunkte) dürfen nicht verschoben werden. Lasst einfach das Pivot Tool in Ruhe.
 
@@ -21,7 +27,7 @@ MacOS
 Wenn ihr auf macOS diese Fehlermeldung beim Öffnen bekommt, müsst ihr erst auf "Abbrechen" klicken und anschließend in eure Einstellungen auf  "Datenschutz & Sicherheit" gehen. Scrollt dort runter zum Punkt "Sicherheit" und klickt auf "Trotzdem öffnen". Dann gebt ihr euer Passwort bzw. Fingerabdruck ein und könnt den Launcher jetzt öffnen.
 
 # Installation geht nicht, "cannot be accessed", "Unable to install"
-Vollständig deinstallieren über `%localappdata%\NoRiskClient\uninstall.exe`
+Vollständig deinstallieren über `%localappdata%\NoRiskClientV3\uninstall.exe`
 
 # Ich habe einen Bug in Subway Surfers, Heros FFA oder dem HGLabor Server!
 Fragen oder Bugs zu Subway Surfers oder dem HGLabor Server müssen im [HGLabor Discord](https://discord.gg/aqkp5jNBKJ) gemeldet werden und nicht hier im NoRisk Client Discord.
@@ -46,16 +52,6 @@ Falls das nicht geholfen hast kannst du diese mögliche fixes versuchen kannst:
 - Advanced (Windows only): CMD -> als Admin ausführen -> netsh winsock reset (bei bootloop of death)
 Falls nichts davon geholfen hat gib uns bitte nochmal kurz bescheid und ein Helper wird dir weiterhelfen.
 
-# Launcher nur weiß/schwarz (leer)?
-Drei mögliche fixes die du sofort versuchen kannst:
-- Neuinstallieren von norisk.gg
-- Verändere bitte keine Dateien direkt im Launcher Ordner
-- Launcher-Ordner löschen
-  - Windows: `%appdata%\norisk\NoRiskClient\config`
-  - Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.config/noriskclient/options.json`
-  - Mac: Cmd + Shift + . (versteckte Dateien anzeigen) -> `Benutzer\[Benutzer]\Library\ApplicationSupport\gg.norisk.NoRiskClient\options.json`
-Falls nichts davon geholfen hat gib uns bitte nochmal kurz bescheid und ein Helper wird dir weiterhelfen.
-
 # Wie nutze ich den Client bei Linux?
 Wenn du eine Fehlermeldung wie "Unacceptable TLS Certificate" bei Login bekommst versuche es mit: `$ sudo ln -s /etc/ssl/ca-bundle.pem /etc/ssl/certs/ca-certificates.crt`
 Ist dein Launcher UI cursed: `$ export WEBKIT_DISABLE_COMPOSITING_MODE=1`
@@ -76,11 +72,6 @@ AUR (official Version, URL: https://aur.archlinux.org/packages/noriskclient-laun
 RPM (Soon…)
 NIX (Soon…)
 
-# "Mein Launcher ist Stuck im 'Updating' Screen" (Loop of Death)
-Versuche zuerst einmal den Client von norisk.gg neu zu installieren
-Du kannst auch deine Launcher Einstellungen einmal löschen (`%appdata%\norisk\NoRiskClient\config`)
-Abschließend kannst du auch einmal eine andere Methode zum Installieren probieren (wenn ihr .exe habt, probiert über *.nsis.zip, alle Versionen findet ihr auf [Github](https://github.com/NoRiskClient/noriskclient-launcher/releases))
-
 # Launcher Stuck im Auto-Updater / Installer
 Lade dir bitte einmal die neuste Version von norisk.gg herunter.
 
@@ -94,12 +85,9 @@ Falls du mit einem der oben genannten Codes in die Beta gekommen bist, aber den 
 
 # "Incompatible mods found!" (Mod discovery failed, zip END header not found)
 Diesen Fehler kannst du eventuell beheben indem du deinen Mod Cache löschst, diesen findest du hier:
-Windows: `%appdata%\norisk\NoRiskClient\data\mod_cache`
+Windows: `%appdata%\norisk\NoRiskClientV3\data\mod_cache`
 macOS:  Cmd + Shift + . (versteckte Dateien anzeigen) -> `Benutzer\[Benutzer]\Library\ApplicationSupport\gg.norisk.NoRiskClient\mod_cache`
 Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.local/share/noriskclient/mod_cache`
-
-# "API Offline"-Screen
-Lade dir bitte einmal die neuste Version von norisk.gg herunter.
 
 # Ich habe einen Ping Pong Bug
 Ping Pong Bugs werden leider nicht mehr gefixt, das Minigame ist abgeschlossen und wird so wie es ist im Client Verbleiben.
@@ -108,25 +96,22 @@ Ping Pong Bugs werden leider nicht mehr gefixt, das Minigame ist abgeschlossen u
 Es ist noch nicht bekannt, wann der Client genau released wird.
 
 # Wie kann ich mich bewerben?
-Allgemein gibt es **keine** Bewerbungen für *Beta*, *Norisk-Partner*, *Helper* oder *Designer*.
+Allgemein gibt es **keine** Bewerbungen für *Beta*, *Helper* oder *Designer*.
 Um Helper zu werden sei einfach im Discord aktiv und um Designer zu werden schick uns deine Ideen / Screenshots von Models in <#1209286223680770079> bzw <#1278104571255980032> .
 
 # Wie kann ich mich für einen Creator Code oder als Content Creator bewerben?
-Stell bitte sicher dass du die Anforderungen (https://blog.norisk.gg/nrc-partnerprogramm/) erfüllst.
+Stell bitte sicher dass du die Anforderungen https://blog.norisk.gg/nrc-partnerprogramm/ erfüllst.
 Zusätzlich findest du auf der Seite den Bewerbungsablauf, schreib bitte kurz was über dich, deine Plattform und wie du dir deinen Creatorcode vorstellst!
 
 # Wo finde ich meine Screenshots, Welten, Resource / Texturepacks etc?
-Unter: `%appdata%\norisk\NoRiskClient\data\gameDir\1.21\screenshots`, drücke einfach die Windowstaste + R und füge dort dieser Pfad ein.
+Gehe in den Launcher Links auf `Profiles` rechts klicke auf dein Profil. Klicke dann auf `Open Profile Folder`, dort ist ein Ordner namens: Screenshots in dem du deine Screenshots findest. 
 
 # Bei mir haben alle einen NoRisk skin?
 Das ist normal, wenn du den NoRisk Client nutzt, hat jeder Spieler der keinen eigenen Skin hat, den Skin von NoRisk. Es wurde also nur der Steve Skin ausgetauscht.
 
 # Wie kann ich Mods installieren?
-Öffne zuerst im Launcher die "mods" Seite unter dem Reiter "addons".
-Dort kannst du im "discover" tab nach Mods suchen und diese direkt installieren.
-Wenn du eine Mod im Store nicht finden kannst, siehe nach, ob sie geblacklisted ist: https://discord.com/channels/774271756549619722/1276193700019437578/1307857820930015233
-Falls du eine custom Mod nutzen willst, kannst du diese entweder im "custom" tab öffnen oder direkt in den "installed" tab per drag-and-drop ziehen.
-Beachte bei einer custom Mod, dass sie mit der Minecraft Version kompatibel ist und Fabric verwendet.
+Öffne zuerst im Launcher die "Mods" Seite (Links im Menu).
+Dort kannst du neue Mods installieren. Wenn du Custom Mods installiern willst ziehen diese einfach in dieses Fenster rein.
 
 # Warum geht der "/heroes" Befehl nicht?
 Gehe sicher das du das Datapack ausgewählt hast? (Welt zeigt dann als gelben Tag "Experimental" an)
@@ -146,3 +131,26 @@ Windows: Einstellungen > Datum&Uhrzeit > „Automatisch einstellen“ 1-mal aus/
 - Verbindung über WLAN?
 - "CLEAR CACHE" in den Launcher Settings
 - "MAX DOWNLOADS" in den Launcher Settings auf 50 stellen
+
+# Mein Spielt crasht wenn ich Waypoints nutze
+Waypoints sind zurzeit leider verbuggt. Wir sind an einer Lösung am Arbeiten.
+
+# Manueller Fix für den Java-Error beim Client: ERROR: JAVA DOWNLOAD ERROR: ZIP READ ERROR FOR LISTING: UNABLE TO LOCATE THE END OF CENTRAL DIRECTORY RECORD
+1) Launcher schließen
+2) Java-Archiv manuell herunterladen -> https://cdn.azul.com/zulu/bin/zulu21.42.19-ca-fx-jre21.0.7-win_x64.zip
+3) Zum folgenden Pfad navigieren `%appdata%\norisk\NoRiskClientV3\meta\java\zulu_21 Altes Archiv löschen`
+4) Das zuvor heruntergeladene Archiv in diesen Ordner verschieben
+5) Archiv entpacken
+6) Launcher starten
+
+# Incompatibile mods found
+Vermutlich hast du einen Mod installiert der nicht kompatible ist. Versuche eines der Standard NoRiskClient Profile zu starten. Dort sollte dieser Fehler nicht auftreten.
+
+# Wenn ich ein Cape hochladen will kommt ein Fehler
+Veruche mal dich neu im Launcher einzuloggen. Das hilft häufig bereits.
+
+# Das AppImage macht probleme / Ich kann das AppImage auf Linux nicht nutzen
+Falls du auf Debian bist versuche es bitte einmal mit der .deb Datei.
+
+# Generelle Launcher Probleme die nicht damit zu Beantworten sind
+Als erste Schritte kannst du versuchen dich nochmal neu Einzuloggen und den Client einfach nochmal neu zu installieren.
