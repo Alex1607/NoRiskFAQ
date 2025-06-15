@@ -153,7 +153,7 @@ Veruche mal dich neu im Launcher einzuloggen. Das hilft häufig bereits.
 Falls du auf Debian bist versuche es bitte einmal mit der .deb Datei.
 
 # Ich kann das Profil nicht klonen / kopieren.
-Wir sind uns dem Problem bewusst und werden dieses schnellsmöglich fixen.
+Bitte starte einmal das Standard Profil und versuche erst dann es zu kopieren. Das ist notwendig damit erst alle Dateien heruntergeladen und erstellt werden können.
 
 # Generelle Launcher Probleme die nicht damit zu Beantworten sind
 Als erste Schritte kannst du versuchen dich nochmal neu Einzuloggen und den Client einfach nochmal neu zu installieren.
