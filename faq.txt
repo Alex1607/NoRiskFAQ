@@ -152,5 +152,8 @@ Veruche mal dich neu im Launcher einzuloggen. Das hilft häufig bereits.
 # Das AppImage macht probleme / Ich kann das AppImage auf Linux nicht nutzen
 Falls du auf Debian bist versuche es bitte einmal mit der .deb Datei.
 
+# Ich kann das Profil nicht klonen / kopieren.
+Wir sind uns dem Problem bewusst und werden dieses schnellsmöglich fixen.
+
 # Generelle Launcher Probleme die nicht damit zu Beantworten sind
 Als erste Schritte kannst du versuchen dich nochmal neu Einzuloggen und den Client einfach nochmal neu zu installieren.
