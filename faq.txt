@@ -159,3 +159,15 @@ Windows: Einstellungen > Datum&Uhrzeit > „Automatisch einstellen“ 1-mal aus/
 - Verbindung über WLAN?
 - "CLEAR CACHE" in den Launcher Settings
 - "MAX DOWNLOADS" in den Launcher Settings auf 50 stellen
+
+# Mein Minecraft Mojang Ladebalken bleibt bei der Hälfte stehen, 1.21.4 startet nicht
+Aktuell unterstützt der NoRiskClient nur die Version 1.21.5. Frühere Versionen werden erst später hinzugefügt.
+Schau ob du die neuste Version vom Launcher hast um keine neuen Versionen und Features zu verpassen. Die neuste Version findest du hier: https://norisk.gg/
+
+# Meine Minecraft Instanz crasht immer beim starten
+- Deaktiviere alle zusätzlichen Mods
+- Erstelle ein neues Profil mit dem "NoRisk Production"-Packet für die 1.21.5 mit Fabric.
+
+# Bei mir werden die NoRiskClient Mods Ingame nicht angezeigt, R-Shift-Menü funktioniert nicht.
+- Stelle sicher, dass du die NoRiskClient Mods wirklich ausgewählt hast. Dies kannst du im Launcher > Profiles > Rechtsklick auf das Profil > Settings > NoRisk Client Packet > NoRisk Production. Falls es "Settings" nicht gibt, neues Profil erstellen und dort das NoRisk Client Packet auswählen.
+- Überprüfe die Version des Fabric-Loaders. Falls in den Logs oder Modordner die Version 0.16.13 steht, erstelle ein neues Profil mit NoRisk Production, der 1.21.5 Version und Fabric (automatisch die Neuste).
