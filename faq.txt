@@ -155,5 +155,12 @@ Falls du auf Debian bist versuche es bitte einmal mit der .deb Datei.
 # Ich kann das Profil nicht klonen / kopieren.
 Bitte starte einmal das Standard Profil und versuche erst dann es zu kopieren. Das ist notwendig damit erst alle Dateien heruntergeladen und erstellt werden können.
 
+# Wie kann ich das Ingame Menu / GUI öffnen?
+Mit R-Shift, diese Taste findest du Rechts auf deiner Tastatur: https://i.imgur.com/mhFMhhi.png
+
+# Mein Ingame Menu / GUI öffnet sich nicht wenn ich R-Shift drücke
+Bitte prüfe das du den Client in einer Unterstützten Version gestartet hast. Falls du zb die 1.8 gestartet hast wird der Client dort nicht zur verfügung stehen.
+Versuche es bitte einmal mit dem Standard Profil. Dort sollte es dann klappen.
+
 # Generelle Launcher Probleme die nicht damit zu Beantworten sind
 Als erste Schritte kannst du versuchen dich nochmal neu Einzuloggen und den Client einfach nochmal neu zu installieren.
