@@ -84,10 +84,7 @@ Auch wenn du von einem Freund eingeladen wurdest ist es beabsichtigt, dass du de
 Falls du mit einem der oben genannten Codes in die Beta gekommen bist, aber den Button nicht hast, öffne gerne ein Ticket :)
 
 # "Incompatible mods found!" (Mod discovery failed, zip END header not found)
-Diesen Fehler kannst du eventuell beheben indem du deinen Mod Cache löschst, diesen findest du hier:
-Windows: `%appdata%\norisk\NoRiskClientV3\data\mod_cache`
-macOS:  Cmd + Shift + . (versteckte Dateien anzeigen) -> `Benutzer\[Benutzer]\Library\ApplicationSupport\gg.norisk.NoRiskClient\mod_cache`
-Linux: Ctrl + H (versteckte Dateien anzeigen) -> `/home/[Benutzer]/.local/share/noriskclient/mod_cache`
+Wenn du diesen Fehler bekommst solltest du probieren das standart Profile deiner version zu rechtsklicken und dort auf "Repair Profile" drücken! https://imgur.com/a/PVbb4gw
 
 # Ich habe einen Ping Pong Bug
 Ping Pong Bugs werden leider nicht mehr gefixt, das Minigame ist abgeschlossen und wird so wie es ist im Client Verbleiben.
