@@ -1,0 +1,175 @@
+# Wie kann ich den Client aktuell benutzen?
+Du kannst den Client auf norisk.gg downloaden und starten
+---
+# Wie kann ich die Version ändern?
+Zurzeit kannst du nur mit der Version 1.21.5 (als Test Version) spielen.
+Es ist zwar möglich die 1.8 oder andere Versionen auszuwählen, aber ohne die Mods die den NoRiskClient ausmachen.
+Es ist nicht geplant den NoRiskClient auf die 1.8 zu bringen.
+Es wird immer schnellstmöglich auf die neuste Minecraft Version geupdated.
+---
+# Wie kann ich den NRC / NoRiskClient auf der 1.8 nutzen?
+Das geht leider nicht, aktuell werden nur die 1.12.5 unterstützt.
+Es ist nicht geplant den NoRiskClient auf die 1.8 zu bringen.
+---
+# Wo finde ich das NRC Emote base Model?
+Installiere die dafür das "Geckolib Animation Utils" Plugin in Blockbench.
+Erstelle dann ein neues "Geckolib Animated Model" und beim Erstellen wählst du als "Model Type" -> "Armor" aus. Alternative findest du im <#774292827524956181> Channel auch das Model.
+(Das Plugin wird trotzdem benötigt!)
+Achtung:
+Die Pivot Points (Ankerpunkte) dürfen nicht verschoben werden. Lasst einfach das Pivot Tool in Ruhe.
+---
+# Beim Installieren bekomme ich diese Meldung: Der Computer wurde durch Windows geschützt
+Das liegt daran, dass wir noch kein offizielles Microsoft Zertifikat haben.
+Um trotzdem mit dem Client spielen zu können, klicke auf "Weitere Informationen" und "Trotzdem ausführen".
+Wenn du den Client von norisk.gg heruntergeladen hast, ist er sicher.
+
+MacOS
+Wenn ihr auf macOS diese Fehlermeldung beim Öffnen bekommt, müsst ihr erst auf "Abbrechen" klicken und anschließend in eure Einstellungen auf  "Datenschutz & Sicherheit" gehen. Scrollt dort runter zum Punkt "Sicherheit" und klickt auf "Trotzdem öffnen". Dann gebt ihr euer Passwort bzw. Fingerabdruck ein und könnt den Launcher jetzt öffnen.
+---
+# Installation geht nicht, "cannot be accessed", "Unable to install"
+Vollständig deinstallieren über `%localappdata%\NoRiskClientV3\uninstall.exe`
+---
+# Ich habe einen Bug in Subway Surfers, Heros FFA oder dem HGLabor Server!
+Fragen oder Bugs zu Subway Surfers oder dem HGLabor Server müssen im [HGLabor Discord](https://discord.gg/aqkp5jNBKJ) gemeldet werden und nicht hier im NoRisk Client Discord.
+---
+# Wie lange dauert mein Cape angenommen wird und woher weiß ich ob es angenommen wurde oder nicht?
+Wenn es angenommen wurde findest du es in deinem Cape-Menu im Launcher, die Zeit bis es angenommen wird kann sich unterscheiden sollte aber maximal einige Stunden dauern.
+---
+# Mein Cape wurde nicht angenommen, was kann der Grund dafür sein?
+Dafür gibt es zwei Hauptgründe. Möglichkeit eins ist das es gegen die Cape Richtlinien Verstoßen hat, diese sind:
+Keine urheberrechtlich geschützten Inhalte (z.B. Umhänge von Youtubern oder Inhalte im Zusammenhang mit Nintendo usw.) -> Das Umfärben eines urheberrechtlich geschützten Bildes entfernt das Copyright im übrigen nicht 
+Keine expliziten Inhalte -> Nacktheit etc.
+Keine diskriminierenden, rassistischen usw. Inhalte
+Keine politischen Inhalte
+Oder Möglichkeit zwei ist, dass die Elytra vergessen wurde. Diese ist ein Teil deines Capes und muss immer auch gefüllt sein.
+---
+# Launcher startet nicht bzw Crash beim starten?
+**Versuche es bitte zuallererst, indem du den Client neu installierst. Lade ihn dafür nochmal von https://norisk.gg runter.**
+Falls das nicht geholfen hast kannst du diese mögliche fixes versuchen kannst:
+- Start im privileged mode (run as admin)
+- Taskkill im Task Manager oder Commandline
+- 3rd-Party Services deaktivieren (Antivirus, Firewall)
+- Advanced (Windows only): CMD -> als Admin ausführen -> netsh winsock reset (bei bootloop of death)
+Falls nichts davon geholfen hat gib uns bitte nochmal kurz bescheid und ein Helper wird dir weiterhelfen.
+---
+# Wie nutze ich den Client bei Linux?
+Wenn du eine Fehlermeldung wie "Unacceptable TLS Certificate" bei Login bekommst versuche es mit: `$ sudo ln -s /etc/ssl/ca-bundle.pem /etc/ssl/certs/ca-certificates.crt`
+Ist dein Launcher UI cursed: `$ export WEBKIT_DISABLE_COMPOSITING_MODE=1`
+Beachte bitte: Das AppImage ist AMD only, AARCH/ARM Anleitung in Readme)
+Und für das Troubleshooting AppImage/.deb versuche es zuerst hiermit:
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt install libfuse2 (libfuse2t64 for Ubuntu)
+
+Folgende Dependencies werden bei diesen Distributionen benötigt:
+Ubuntu: libxapp-gtk3 xapps-common libxapp
+Debian: libgtk-3-dev libssl-dev libsoup2.4-dev libwebkit2gtk-4.0-dev
+Arch: cairo gdk-pixbuf2 glib2 gtk3 libsoup openssl pango webkit2gtk
+
+Andere packages die es ansonsten noch gibt welche du probieren kannst: (including unofficial)
+Flatpack (by onlyJakob, URL: https://github.com/onlyJakob/flathub/releases/tag/latest)
+AUR (official Version, URL: https://aur.archlinux.org/packages/noriskclient-launcher-git)
+RPM (Soon…)
+NIX (Soon…)
+---
+# Launcher Stuck im Auto-Updater / Installer
+Lade dir bitte einmal die neuste Version von norisk.gg herunter.
+---
+# Ich habe den Invite Button nicht!
+Der Button ist nur für neue User gedacht. Das bedeutet:
+Du siehst den den Invite Button nur, wenn du der Beta mit einem der folgenden Codes beigetreten bist. Andernfalls ist das Fehlen des Buttons gewollt!
+freunde, friends, geilo, blackweek1, blackweek2, blackweek3, blackmonday, advent, meinpcgehtwieder
+Auch wenn du von einem Freund eingeladen wurdest ist es beabsichtigt, dass du den Button nicht hast!
+
+Falls du mit einem der oben genannten Codes in die Beta gekommen bist, aber den Button nicht hast, öffne gerne ein Ticket :)
+---
+# "Incompatible mods found!" (Mod discovery failed, zip END header not found)
+Wenn du diesen Fehler bekommst solltest du probieren das standart Profile deiner version zu rechtsklicken und dort auf "Repair Profile" drücken! https://imgur.com/a/PVbb4gw
+---
+# Ich habe einen Ping Pong Bug
+Ping Pong Bugs werden leider nicht mehr gefixt, das Minigame ist abgeschlossen und wird so wie es ist im Client Verbleiben.
+---
+# Wann wird der Client released?
+Es ist noch nicht bekannt, wann der Client genau released wird.
+---
+# Wie kann ich mich bewerben?
+Allgemein gibt es **keine** Bewerbungen für *Beta*, *Helper* oder *Designer*.
+Um Helper zu werden sei einfach im Discord aktiv und um Designer zu werden schick uns deine Ideen / Screenshots von Models in <#1209286223680770079> bzw <#1278104571255980032> .
+---
+# Wie kann ich mich für einen Creator Code oder als Content Creator bewerben?
+Stell bitte sicher dass du die Anforderungen https://blog.norisk.gg/nrc-partnerprogramm/ erfüllst.
+Zusätzlich findest du auf der Seite den Bewerbungsablauf, schreib bitte kurz was über dich, deine Plattform und wie du dir deinen Creatorcode vorstellst!
+---
+# Wo finde ich meine Screenshots, Welten, Resource / Texturepacks etc?
+Gehe in den Launcher Links auf `Profiles` rechts klicke auf dein Profil. Klicke dann auf `Open Profile Folder`, dort ist ein Ordner namens: Screenshots in dem du deine Screenshots findest. 
+---
+# Bei mir haben alle einen NoRisk skin?
+Das ist normal, wenn du den NoRisk Client nutzt, hat jeder Spieler der keinen eigenen Skin hat, den Skin von NoRisk. Es wurde also nur der Steve Skin ausgetauscht.
+---
+# Wie kann ich Mods installieren?
+Öffne zuerst im Launcher die "Mods" Seite (Links im Menu).
+Dort kannst du neue Mods installieren. Wenn du Custom Mods installiern willst ziehen diese einfach in dieses Fenster rein.
+---
+# Warum geht der "/heroes" Befehl nicht?
+Gehe sicher das du das Datapack ausgewählt hast? (Welt zeigt dann als gelben Tag "Experimental" an)
+Bedanke auch das du "Allow Cheats" aktivieren musst
+---
+# Kann die Auflösung für kostenlose Capes erhöht werden?
+Nein, die maximale Auflösung für kostenlose Capes wird nicht erhöht da diese sonst zu viel Speicher verbrauchen.
+---
+# Network Protocol Error, Warum seh ich keine Pings?
+- Deaktiviere installierte Antivirus/Firewall Programme.
+- Überprüfe ob du DNS Einstellungen verstellt hast.
+- Stelle fest, ob die Uhrzeit auf deinem Gerät aktuell ist:
+Windows: Einstellungen > Datum&Uhrzeit > „Automatisch einstellen“ 1-mal aus/ein, Synchronisieren
+---
+# Mein Download bleibt bei x% stehen
+- Zu langsame Download-Geschwindigkeit (Netzwerk)?
+- Verbindung über WLAN?
+- "CLEAR CACHE" in den Launcher Settings
+- "MAX DOWNLOADS" in den Launcher Settings auf 50 stellen
+---
+# Mein Spielt crasht wenn ich Waypoints nutze
+Waypoints sind zurzeit leider verbuggt. Wir sind an einer Lösung am Arbeiten.
+---
+# Manueller Fix für den Java-Error beim Client: ERROR: JAVA DOWNLOAD ERROR: ZIP READ ERROR FOR LISTING: UNABLE TO LOCATE THE END OF CENTRAL DIRECTORY RECORD
+1) Launcher schließen
+2) Java-Archiv manuell herunterladen -> https://cdn.azul.com/zulu/bin/zulu21.42.19-ca-fx-jre21.0.7-win_x64.zip
+3) Zum folgenden Pfad navigieren `%appdata%\norisk\NoRiskClientV3\meta\java\zulu_21 Altes Archiv löschen`
+4) Das zuvor heruntergeladene Archiv in diesen Ordner verschieben
+5) Archiv entpacken
+6) Launcher starten
+---
+# Incompatibile mods found
+Vermutlich hast du einen Mod installiert der nicht kompatible ist. Versuche eines der Standard NoRiskClient Profile zu starten. Dort sollte dieser Fehler nicht auftreten.
+---
+# Wenn ich ein Cape hochladen will kommt ein Fehler
+Veruche mal dich neu im Launcher einzuloggen. Das hilft häufig bereits.
+---
+# Das AppImage macht probleme / Ich kann das AppImage auf Linux nicht nutzen
+Falls du auf Debian bist versuche es bitte einmal mit der .deb Datei.
+---
+# Ich kann das Profil nicht klonen / kopieren.
+Bitte starte einmal das Standard Profil und versuche erst dann es zu kopieren. Das ist notwendig damit erst alle Dateien heruntergeladen und erstellt werden können.
+---
+# Wie kann ich das Ingame Menu / GUI öffnen?
+Mit R-Shift, diese Taste findest du Rechts auf deiner Tastatur: https://i.imgur.com/mhFMhhi.png
+---
+# Mein Ingame Menu / GUI öffnet sich nicht wenn ich R-Shift drücke
+Bitte prüfe das du den Client in einer Unterstützten Version gestartet hast. Falls du zb die 1.8 gestartet hast wird der Client dort nicht zur verfügung stehen.
+Versuche es bitte einmal mit dem Standard Profil. Dort sollte es dann klappen.
+---
+# Generelle Launcher Probleme die nicht damit zu Beantworten sind
+Als erste Schritte kannst du versuchen dich nochmal neu Einzuloggen und den Client einfach nochmal neu zu installieren.
+---
+# Mein Minecraft Mojang Ladebalken bleibt bei der Hälfte stehen, 1.21.4 startet nicht
+Aktuell unterstützt der NoRiskClient nur die Version 1.21.5. Frühere Versionen werden erst später hinzugefügt.
+Schau ob du die neuste Version vom Launcher hast um keine neuen Versionen und Features zu verpassen. Die neuste Version findest du hier: https://norisk.gg/
+---
+# Meine Minecraft Instanz crasht immer beim starten
+- Deaktiviere alle zusätzlichen Mods
+- Erstelle ein neues Profil mit dem "NoRisk Production"-Packet für die 1.21.5 mit Fabric.
+---
+# Bei mir werden die NoRiskClient Mods Ingame nicht angezeigt, R-Shift-Menü funktioniert nicht.
+- Stelle sicher, dass du die NoRiskClient Mods wirklich ausgewählt hast. Dies kannst du im Launcher > Profiles > Rechtsklick auf das Profil > Settings > NoRisk Client Packet > NoRisk Production. Falls es "Settings" nicht gibt, neues Profil erstellen und dort das NoRisk Client Packet auswählen.
+- Überprüfe die Version des Fabric-Loaders. Falls in den Logs oder Modordner die Version 0.16.13 steht, erstelle ein neues Profil mit NoRisk Production, der 1.21.5 Version und Fabric (automatisch die Neuste).
